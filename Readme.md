@@ -1,4 +1,4 @@
-# Grupo de Programación Competitiva UV 🏆
+# Grupo de Programación Competitiva UV
 
 Repositorio oficial de material y utilidades del grupo de **Programación Competitiva** de la **Universidad del Valle**.
 
