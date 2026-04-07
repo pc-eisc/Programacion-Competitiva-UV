@@ -41,8 +41,8 @@ Programacion-Competitiva-UV/
 
 ## 📖 Libros Recomendados
 
-- **Competitive Programming** - Steven Halim y Felix Halim
 - **Competitive Programmers Handbook** - Antti Laaksonen (Libro principal del grupo)
+- **Competitive Programming** - Steven Halim y Felix Halim
 - **Introduction to Algorithms** - Cormen, Leiserson, Rivest
 
 ## 🤝 Cómo Participar
